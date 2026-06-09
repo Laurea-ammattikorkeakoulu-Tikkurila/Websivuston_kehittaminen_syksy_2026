@@ -1,1 +1,0 @@
-This is folder for Workshop 2 CSS.
